@@ -1,0 +1,68 @@
+{
+  "contacts": [
+    {
+      "id": "AAA111",
+      "name": "King Kohli",
+      "photo": "https://s.ndtvimg.com/images/entities/300/virat-kohli-967.png",
+      "mobile": "888888888",
+      "email": "kohli18@gmail.com",
+      "title": "Software Engineer",
+      "company": "TCS",
+      "group": "1"
+    },
+    {
+      "id": "AAA112",
+      "name": "Arjun",
+      "photo": "https://cdn.iconscout.com/icon/premium/png-256-thumb/office-manager-1-1103364.png",
+      "mobile": "9831425103",
+      "email": "arjun11@gmail.com",
+      "title": "Software Engineer",
+      "company": "Infosys",
+      "group": "2"
+    },
+    {
+      "id": "AAA113",
+      "name": "Prakash",
+      "photo": "https://cdn.vectorstock.com/i/preview-1x/17/61/male-avatar-profile-picture-vector-10211761.jpg",
+      "mobile": "7777777777",
+      "email": "prakash12@gmail.com",
+      "title": "Electrical Engineer",
+      "company": "Kavya Technologies",
+      "group": "3"
+    },
+    {
+      "id": "AAA114",
+      "name": "Pradnya",
+      "photo": "https://cdn2.iconfinder.com/data/icons/avatars-2-7/128/36-1024.png",
+      "mobile": "1212121212",
+      "email": "pradnya13@gmail.com",
+      "title": "Electrical Engineer",
+      "company": "Infosys",
+      "group": "2"
+    },
+    {
+      "name": "Harkirat",
+      "photo": "https://yt3.googleusercontent.com/MeY_fGNrjVLV0PVOBN7dRWzMBS0y41YGm55LOaJ02cXV82a7Np9pYxxhHFqdYdncEy1I2cYR=s900-c-k-c0x00ffffff-no-rj",
+      "mobile": "9834814247",
+      "email": "harkirat@gmail.com",
+      "company": "100xdevs",
+      "title": "Remote engineer",
+      "group": "",
+      "id": "i2z7DHs"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Family"
+    },
+    {
+      "id": "2",
+      "name": "Friends"
+    },
+    {
+      "id": "3",
+      "name": "Colleague"
+    }
+  ]
+}
